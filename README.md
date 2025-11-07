@@ -9,5 +9,8 @@
           <li>un libro titulado <em>Crónicas Marcianas</em></li>
           <li>pedazos de los ingredientes que podrían ser de un pambazo</li>
 </section>
-
-<input type="text" placeholder="Hola Any de mi corazón" name="alpha">
+<section>
+        <h2>Any box</h2>
+        <input type="text" placeholder="Hola Any de mi corazón" name="alpha">
+        <button type="submit">Piquele aquí</button>
+</section>
